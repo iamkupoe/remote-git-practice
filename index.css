@@ -1,0 +1,13 @@
+.first {
+    background-color: blueviolet;
+    float: left;
+    height: 100px;
+    width: 50%;
+}
+
+.second {
+    background-color: brown;
+    float: right;
+    height: 100px;
+    width: 50%;
+}
